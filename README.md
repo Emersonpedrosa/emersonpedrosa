@@ -33,7 +33,7 @@
 
 <br><br> 
 
-<a href="https://www.linkedin.com/in/emerson-pedrosa-ab610217b/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> 
-<a href="https://www.instagram.com/emersonpedrosaa/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=instagram" alt="instagram"/> </a> 
-<a href="emersonppsilva15@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=gmail" alt="Gmail"/> </a>
+<a href="https://www.linkedin.com/in/emerson-pedrosa-ab610217b/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Emerson-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> 
+<a href="https://www.instagram.com/emersonpedrosaa/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Emerson-05122A?style=flat&logo=instagram" alt="instagram"/> </a> 
+<a href="emersonppsilva15@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Emerson-05122A?style=flat&logo=gmail" alt="Gmail"/> </a>
 
